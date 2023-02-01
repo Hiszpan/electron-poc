@@ -38,4 +38,3 @@ if (isDebug) {
     hardResetMethod: "exit",
   });
 }
-//test
